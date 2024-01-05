@@ -14,17 +14,17 @@ In recent years, continual learning (CL) techniques have made significant progre
 
 ### Prerequisites
 
-dgl==1.0.2
-matplotlib==3.7.1
-numpy==1.23.5
-pandas==1.3.5
-pipeline==0.1
-scikit_learn==1.2.2
-scipy==1.10.1
-seaborn==0.13.1
-torch==1.12.1
-torch_geometric==2.3.0
-torch_geometric_temporal==0.54.0
+- dgl==1.0.2
+- matplotlib==3.7.1
+- numpy==1.23.5
+- pandas==1.3.5
+- pipeline==0.1
+- scikit_learn==1.2.2
+- scipy==1.10.1
+- seaborn==0.13.1
+- torch==1.12.1
+- torch_geometric==2.3.0
+- torch_geometric_temporal==0.54.0
 
 ### Installation
 
