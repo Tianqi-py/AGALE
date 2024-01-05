@@ -38,7 +38,14 @@ This repository contains the code implementation for the AGALE: A Graph-Aware Co
     ```
 
 ### Usage
-Example 1: Run the baseline models in one incremental setting
+
+All the baselines used in this paper are implemented in the baselines/. The backbone GNNs plugged into the baselines are in backbones/. 
+
+The folder baselines/models/ contains all the baseline models reimplemented in the two incremental settings proposed in this paper with the expandable output units for the unknown number of classes coming in the future time steps.
+
+The name of the Python file in baselines/XX.py indicates the name of the baseline and the incremental setting in which it is implemented. For example, LwF_TaskIL is the script to run LwF in TaskIL.
+
+Example 1: To run a baseline model in an incremental setting, run the Python file in baselines/.
 
 Run LwF in TaskIL:
 
