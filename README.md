@@ -40,10 +40,16 @@ This repository contains the code implementation for the AGALE: A Graph-Aware Co
 ### Usage
 Example 1: Run the baseline models in one incremental setting
 Run LwF in TaskIL:
+
+```bash
 python3 LwF_TaskIL.py --backbone GCN --n_cls_per_t 2 --lr 0.01
+```
 
 Run LwF in ClassIL:
+
+```bash
 python3 LwF_ClassIL.py --backbone GCN --n_cls_per_t 2 --lr 0.01
+```
 
 
 
