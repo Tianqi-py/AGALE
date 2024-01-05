@@ -39,6 +39,7 @@ This repository contains the code implementation for the AGALE: A Graph-Aware Co
 
 ### Usage
 Example 1: Run the baseline models in one incremental setting
+
 Run LwF in TaskIL:
 
 ```bash
