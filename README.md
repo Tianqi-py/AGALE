@@ -73,3 +73,10 @@ where --n_cls_per_t controls how many classes will be seen at each time step. Th
 You can use the scripts as examples to prepare other graph datasets to test your model in incremental settings. Have fun!
 
 
+Please cite our paper using the following bibtex code:
+
+'''
+
+'''
+
+
