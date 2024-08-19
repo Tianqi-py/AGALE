@@ -76,6 +76,16 @@ You can use the scripts as examples to prepare other graph datasets to test your
 Please cite our paper using the following bibtex code:
 
 '''
+@article{
+zhao2024agale,
+title={{AGALE}: A Graph-Aware Continual Learning Evaluation Framework},
+author={Tianqi Zhao and Alan Hanjalic and Megha Khosla},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2024},
+url={https://openreview.net/forum?id=xDTKRLyaNN},
+note={}
+}
 
 '''
 
